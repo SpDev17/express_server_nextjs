@@ -1,0 +1,21 @@
+###
+GET http://localhost:1001
+
+###
+GET http://localhost:1001/api/mongoose/users
+
+###
+GET http://localhost:1001/_api/permission/get_json
+
+###
+GET http://localhost:1001/_api/grouppermission/get_json
+
+###
+GET http://localhost:1001/_api/restaurants/get_json
+
+###
+GET http://localhost:1001/_api/restaurants/get_json/5eb3d668b31de5d588f4292e
+
+###
+GET http://localhost:1001/_api/user/me
+authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjNkMGRiMWE0NGQwOTFhY2NiNTQxNWEiLCJncnBzIjpbeyJfaWQiOiI1ZTEyZTlkYjQyOTBmNjEwMDgxNDA2NDciLCJ0aXRsZSI6IkFETUlOSVNUUkFUT1IiLCJncm91cHBlcm1pc3Npb24iOlt7Il9pZCI6IjVkMWVlZjc3ZjcxMDhjMzYzMDI5OTAwMCIsInRpdGxlIjoiUkVBRCJ9LHsiX2lkIjoiNWQxZWVmODRmNzEwOGMzNjMwMjk5MDAyIiwidGl0bGUiOiJVUERBVEUifSx7Il9pZCI6IjVkMWVlZjhiZjcxMDhjMzYzMDI5OTAwMyIsInRpdGxlIjoiREVMRVRFIn0seyJfaWQiOiI1ZDFlZWY3ZWY3MTA4YzM2MzAyOTkwMDEiLCJ0aXRsZSI6IkNSRUFURSJ9XX1dLCJpYXQiOjE3MTkyMTEyOTIsImV4cCI6MTcxOTIyOTI5Mn0.WRNaDgSuBIU0BvlHucHF0-GV5DaRfxbp1QY2op8S4vQ

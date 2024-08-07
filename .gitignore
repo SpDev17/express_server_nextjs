@@ -1,0 +1,14 @@
+client/nextjs/
+client/reactapp/
+client/nextapp/node_modules/
+client/nextapp/dist/
+client/nextapp/.env/
+client/nextapp/.env.local/
+client/nextapp/.next/
+
+TypeScriptServerExpressApp/node_modules/
+
+TypeScriptServerExpressApp/dist/
+
+TypeScriptServerExpressApp/.env/
+TypeScriptServerExpressApp/code before changes.zip/

@@ -1,0 +1,32 @@
+https://dev.to/admirnisic/real-time-communication-with-socketio-and-nodejs-3ok2
+https://mirzaleka.medium.com/express-js-starter-api-with-typescript-deef5c4b6b70
+https://marmelab.com/react-admin/Demos.html
+https://www.youtube.com/watch?v=BuJj4LCWP_4
+https://github.com/Leka-Workshop/Express-APIvantage/blob/1-Starter-API/src/controllers/mongoose/user.controller.ts
+-- react free template video
+https://www.youtube.com/watch?v=aT4hBwdoEyw
+
+next.js 14
+https://www.youtube.com/@codewithguillaume
+https://www.youtube.com/watch?v=gCssfulsemc&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&index=17
+https://www.youtube.com/@Codevolution
+https://www.youtube.com/watch?v=vGkThgeZ9rA&list=UULF80PWRj_ZU8Zu0HSMNVwKWw
+
+power App
+https://www.youtube.com/results?search_query=power+apps+reza+dorrani+
+
+//css branding sites
+https://tailblocks.cc/
+https://getbootstrap.com/
+
+sidebar
+https://www.youtube.com/watch?v=u9_ePWVESU0&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&index=39
+
+//prisma
+cd .\server\databases\postgresql\prisma\
+npx prisma init
+npx prisma generate
+npm prisma migrate dev --name init
+npm run seed
+-----------------------------------------------------
+rd /s /q .git
